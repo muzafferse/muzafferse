@@ -2,7 +2,7 @@
 
 You can add me on LinkedIn: https://www.linkedin.com/in/muzaffersevili/ 
 
-My email address: muzaffer@computer.org
+My email address: muzaffer@ieee.org
 
 
 - 🔭 I’m currently working on Mobile Development
