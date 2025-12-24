@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**muzafferse/muzafferse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can add me on LinkedIn: https://www.linkedin.com/in/muzaffersevili/ 
 
-Here are some ideas to get you started:
+My email address: muzaffer@computer.org
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Mobile Development
+- 🌱 I’m currently learning Advanced SwiftUI & Swift, different design patterns.
+- 🤔 I’m looking for help with Mobile Development.
+- 💬 Ask me about Swift & SwiftUI.
+- 😄 Pronouns: Muzo, Muzi :)
+<!-- 👯 I’m looking to collaborate on ...-->
+<!-- 📫 How to reach me: ...-->
